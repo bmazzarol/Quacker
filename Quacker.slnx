@@ -1,0 +1,4 @@
+<Solution>
+    <Project Path="Quacker.Tests/Quacker.Tests.csproj" />
+    <Project Path="Quacker/Quacker.csproj" />
+</Solution>
