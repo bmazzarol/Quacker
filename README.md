@@ -4,7 +4,7 @@
 
 **Duck typing, resolved at compile time.**
 
-A source generator that specialises a generic method for every combination of argument types you actually call it with, so you can invoke members on a type parameter the compiler never had to know about.
+A source generator that specialises a generic method for every combination of argument types it is called with, so a member can be invoked on a type parameter the compiler never had to know about.
 
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=bmazzarol_Quacker&metric=coverage)](https://sonarcloud.io/summary/new_code?id=bmazzarol_Quacker) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=bmazzarol_Quacker&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=bmazzarol_Quacker) [![CD Build](https://github.com/bmazzarol/Quacker/actions/workflows/cd-build.yml/badge.svg)](https://github.com/bmazzarol/Quacker/actions/workflows/cd-build.yml) [![Check Markdown](https://github.com/bmazzarol/Quacker/actions/workflows/check-markdown.yml/badge.svg)](https://github.com/bmazzarol/Quacker/actions/workflows/check-markdown.yml)
 
